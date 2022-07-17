@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579886645281",
+    "project_id": "whatsappweb-ca443",
+    "storage_bucket": "whatsappweb-ca443.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579886645281:android:06368e89746181df64e360",
+        "android_client_info": {
+          "package_name": "com.example.whatsappweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579886645281-glfo9o8uunb6s4oh8q1m1nrj980i63o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nSF8tj4D9O9gWhExfiZUdpr4yYtiZv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579886645281-glfo9o8uunb6s4oh8q1m1nrj980i63o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
